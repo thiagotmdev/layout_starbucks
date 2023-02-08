@@ -328,10 +328,10 @@ footer{
   }
 
   .header--menu {
-      margin-left: 20px;
+      margin-left: 10px;
   }
   .header--search input {
-      max-width: 120px;
+      max-width: 80px;
   }
 
   h1 {
